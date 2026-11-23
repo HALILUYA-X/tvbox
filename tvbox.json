@@ -1,0 +1,156 @@
+{
+ "sites": [
+  {
+   "key": "s0",
+   "name": "非凡资源",
+   "type": 1,
+   "api": "https://api.ffzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s1",
+   "name": "非凡资源5",
+   "type": 1,
+   "api": "http://ffzy5.tv/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s2",
+   "name": "红牛资源",
+   "type": 1,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s3",
+   "name": "红牛资源3",
+   "type": 1,
+   "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s4",
+   "name": "最大点播",
+   "type": 1,
+   "api": "http://zuidazy.me/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s5",
+   "name": "jacloud云",
+   "type": 1,
+   "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s6",
+   "name": "无尽资源",
+   "type": 1,
+   "api": "http://api.wujinapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s7",
+   "name": "闪电资源",
+   "type": 1,
+   "api": "http://sdzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s8",
+   "name": "魔都资源",
+   "type": 1,
+   "api": "http://www.mdzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "s9",
+   "name": "金鹰资源",
+   "type": 1,
+   "api": "https://jyzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  }
+ ],
+ "lives": [
+  {
+   "name": "联通",
+   "type": 0,
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/%E8%81%94%E9%80%9A"
+  },
+  {
+   "name": "移动",
+   "type": 0,
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/%E7%A7%BB%E5%8A%A8"
+  },
+  {
+   "name": "APTV",
+   "type": 0,
+   "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u"
+  },
+  {
+   "name": "综合直播1线",
+   "type": 0,
+   "url": "http://193.123.86.190:14888/TV/iptv.php"
+  },
+  {
+   "name": "挺好直播",
+   "type": 0,
+   "url": "https://ztha.top/TVBox/tv/thtv.txt"
+  },
+  {
+   "name": "FMM-IPv6",
+   "type": 0,
+   "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt"
+  },
+  {
+   "name": "虎牙一起看",
+   "type": 0,
+   "url": "https://ztha.top/TVBox/lib/huyayqk.m3u"
+  },
+  {
+   "name": "develop202",
+   "type": 0,
+   "url": "https://ztha.top/TVBox/lib/interface.txt"
+  },
+  {
+   "name": "YanG聚合",
+   "type": 0,
+   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+  },
+  {
+   "name": "优选直播",
+   "type": 0,
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/ext/live.txt"
+  },
+  {
+   "name": "vbskycn",
+   "type": 0,
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt"
+  },
+  {
+   "name": "iptv-org中国",
+   "type": 0,
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
+  }
+ ]
+}
